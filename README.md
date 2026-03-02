@@ -15,7 +15,7 @@ Atualmente venho buscando novos conhecimento para que possa aprimorar minha carr
 ---
 
 ## 🌱 Atualmente estou aprendendo
-- Desenvolvimento de APIs RESTful Docker 
+- Desenvolvimento de APIs REST RESTful e Docker 
 - Arquitetura de microsserviços  
 - Cloud Computing (AWS, Azure)  
 
