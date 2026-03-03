@@ -9,7 +9,7 @@ Atualmente venho buscando novos conhecimento para que possa aprimorar minha carr
 ## 🔧 Tecnologias e Ferramentas
 - Linguagens: JavaScript | Python | Java | C  
 - Frameworks: | Node.js | Spring Boot  
-- Banco de Dados: MySQL  
+- Banco de Dados: MySQL | H2
 - Ferramentas: Git | Docker | VS Code | Linux  
 
 ---
