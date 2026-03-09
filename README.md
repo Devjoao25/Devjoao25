@@ -22,8 +22,7 @@ Atualmente venho buscando novos conhecimento para que possa aprimorar minha carr
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: [linkedin.com/in/joaopedro](https://www.linkedin.com/in/
-joão-pedr0)  
+- LinkedIn: [linkedin.com/in/joaopedro](https://www.linkedin.com/in/j0ãoped4r0)  
 - Email: joaopedrogoncalvesray@email.com  
 
 ---
