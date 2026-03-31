@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o João Pedro. 
 # 👋 Hi, I am João Pedro.
-Bem-vindo ao meu perfil do GitHub! 🚀  
-Sou apaixonado por tecnologia, programação e aprendizado contínuo. Aqui você encontrará projetos, estudos e experimentos que refletem minha jornada como desenvolvedor. 
-Atualmente venho buscando novos conhecimento para que possa aprimorar minha carreira profissional, venho praticando e buscando aprimorar a lógica para que possa resolver problemas de forma eficiente e precisa!
+Bem-vindo ao meu perfil no GitHub! 🚀
+Sou empolgado por tecnologia, programação e aprendizado contínuo. Aqui você encontrará projetos, estudos e experimentos que refletem minha jornada como desenvolvedor.
+Atualmente estou expandindo meus conhecimentos para fortalecer minha carreira profissional, dedicando-me ao aprimoramento da lógica de programação e à busca por soluções eficientes e precisas para diferentes desafios.
 
 ---
 
@@ -10,14 +10,14 @@ Atualmente venho buscando novos conhecimento para que possa aprimorar minha carr
 - Linguagens: JavaScript | Python | Java | C  
 - Frameworks: | Node.js | Spring Boot  
 - Banco de Dados: MySQL | H2
-- Ferramentas: Git | Docker | VS Code | Linux  
+- Ferramentas: Git/GitHub | VS Code | Linux | Intellij | CodeBlocks | PyCharm 
 
 ---
 
 ## 🌱 Atualmente estou aprendendo
-- Desenvolvimento de APIs REST RESTful e Docker 
+- Desenvolvimento de APIs REST e RESTfulr 
 - Arquitetura de microsserviços  
-- Cloud Computing (AWS, Azure)  
+- Cloud Computing (AWS)  
 
 ---
 
