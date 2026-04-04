@@ -22,7 +22,7 @@ Atualmente estou expandindo meus conhecimentos para fortalecer minha carreira pr
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: [linkedin.com/in/joaopedro](https://www.linkedin.com/in/j0ãoped4r0)  
+- LinkedIn: [linkedin.com/in/joaopedro](https://www.linkedin.com/in/JoãoPedr0-Dev)  
 - Email: joaopedrogoncalvesray@email.com  
 
 ---
