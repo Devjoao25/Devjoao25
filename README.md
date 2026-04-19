@@ -16,7 +16,7 @@ Atualmente estou expandindo meus conhecimentos para fortalecer minha carreira pr
 ---
 
 ## 🌱 Atualmente estou aprendendo
-- Desenvolvimento de APIs REST e RESTful
+- Desenvolvimento de APIs REST
 - Arquitetura de microsserviços  
 - Cloud Computing (AWS)
 - Banco de Dados
